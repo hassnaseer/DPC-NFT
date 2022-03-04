@@ -1,0 +1,20 @@
+.howItWorks{
+    background-color: black;
+}
+.container h1{
+    color: white !important;
+}
+.cardmb{
+    margin-bottom: 2rem!important;
+}
+.cardmb .div-card{
+    margin-top: 1.5rem;
+    height: 100%;
+    background-color: transparent !important;
+    border: none;
+    box-shadow: 0 5px 15px 5px #5252520d;
+}
+.div-card img{
+    width: 100%;
+    border-radius: 10px;
+}

@@ -1,0 +1,29 @@
+.style-footer {
+background-color: black;
+}
+.header-list{
+    position: absolute;
+    right: 20px;
+}
+.header-list a{
+   font-size: 22px;
+   color: white !important;
+   margin-right: 10px;
+}
+.navbar-brand{
+    font-size: 30px !important;
+    font-weight: 900;
+}
+.header-nav{
+    border-bottom: 1px solid white;
+}
+.navbar{
+    position: fixed !important;
+    z-index: 999;
+  top: 0;
+  width: 100%;
+}
+.navbar-nav .active{
+    color: black !important;
+    background-color: aliceblue;
+}

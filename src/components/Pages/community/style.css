@@ -1,0 +1,61 @@
+.whatMembersAreWearing{
+    background-color: black;
+}
+.telegram{
+    background-image: url("../../../images/card1.png");
+    width: 100%;
+    height: 298px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    padding: 6px 0px;
+}
+.bg h3{
+    padding: 0 20% 0 0;
+    font-size: 50px;
+    text-align: left;
+    font-weight: 600;
+}
+.bg p{
+    padding: 0 50% 0 0;
+    font-size: 18px;
+    text-align: left;
+}
+.bg button{
+    font-weight: 700;
+    font-size: 22px;
+}
+.creativo{
+    background-image: url("../../../images/card2.png");
+    height: 298px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    padding: 6px 0px;
+}
+.upper-div h1{
+    color:white;
+    font-size: 50px;
+    font-weight: 700;
+}
+.upper-div button{
+    border: 1px solid white;
+    padding: 10px;
+}
+.nft-section h1{
+color: white;
+font-size: 42px;
+text-align: left;
+}
+.nft-section p{
+    color: white;
+    font-size: 24px;
+    text-align: left;
+}
+.nft-heading span{
+    color: white;
+font-size: 42px;
+}
+.nft-img img{
+    width: 100%;
+}

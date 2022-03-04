@@ -1,0 +1,116 @@
+.first-dive{
+background-image: url("../../../images/image_2022_03_03T13_43_06_996Z.png");
+width: 100%;
+height: 800px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: 100%;
+}
+.div-center, .div-center h2{
+  color: white;
+  position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.div-center h2{
+  font-size: 60px;
+  font-weight: 700;
+}
+.div-center p{
+  font-size: 24px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.div-center span{
+  font-size: 24px;
+  border: 1px solid white;
+  padding: 15px;
+}
+.div-Club{
+  background-image: url("../../../images/image_2022_03_03T09_17_59_937Z.png");
+width: 100%;
+height: 800px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: 100%;
+}
+.club-mid{
+  color: white;
+  position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.club-mid .Heading{
+  font-size: 70px;
+  font-weight: 700;
+  text-align: start;
+}
+.club-mid ul li, .club-mid p{
+  text-align: start;
+  font-size: 24px;
+}
+.club-mid span{
+  font-size: 24px;
+  border: 1px solid white;
+  padding: 15px;
+}
+.cars-div{
+  background-image: url("../../../images/image_2022_03_03T09_16_50_621Z.png");
+  width: 100%;
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100%;
+}
+.cars-mid{
+  color: white;
+  position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.swiper-mid{
+  color: white;
+  position: relative;
+    z-index: 999;
+    left: 50%;
+    transform: translate(-50%, -170%);
+}
+.swiper-mid h1{
+  color: white;
+  font-size: 70px;
+}
+.swiper-mid p{
+  color: white;
+  font-size: 24px;
+}
+.swiper-mid span{
+  font-size: 20px;
+  padding: 15px;
+  border: 1px solid white;
+}
+.cars-mid .Heading{
+  font-size: 70px;
+  font-weight: 700;
+  text-align: start;
+}
+.cars-mid p{
+  text-align: start;
+  font-size: 24px;
+}
+.cars-mid span{
+  font-size: 24px;
+  border: 1px solid white;
+  padding: 15px;
+}
+.full-swiper img{
+  background-position: 100%;
+  filter: brightness(30%);
+  padding: 6px 0px;
+  height: 712px;
+  width: 100%;
+  background-repeat: no-repeat;
+    background-size: cover;
+}

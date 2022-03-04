@@ -1,0 +1,26 @@
+.faq {padding: 20px 0;
+background-color: #0a0a0a;
+}
+.faq-h3{
+    font-weight: 600;
+    font-size: 40px;
+    margin-bottom: 18px;
+    color: white;
+}
+.icon-plus{
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+}
+.question{
+    color: white;
+}
+.header-question{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    border-bottom: 1px solid white;
+}
+.search-results{
+    color: rgba(238, 238, 238, 0.76) !important;
+    text-align: left;
+}
