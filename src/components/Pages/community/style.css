@@ -33,6 +33,14 @@
     background-position: 100%;
     padding: 6px 0px;
 }
+.nft-image{
+    background-image: url("../../../images/thirdimage.jpeg");
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    padding: 6px 0px;
+}
 .upper-div h1{
     color:white;
     font-size: 50px;
@@ -40,7 +48,7 @@
 }
 .upper-div button{
     border: 1px solid white;
-    padding: 10px;
+    padding: 10px 20px 10px 20px;
 }
 .nft-section h1{
 color: white;
@@ -57,5 +65,26 @@ text-align: left;
 font-size: 42px;
 }
 .nft-img img{
+    width: 90%;
+}
+.timeline h2{
+    font-size: 40px !important;
+    float: left;
+    color: white !important;
+}
+.timeline ul, .timeline ul li{
+    float: left;
+    font-size: 18px;
+}
+.timeline p{
+    float: left;
+    text-align: left;
+}
+.Heading h2{
+    color: white;
+    font-size: 50px;
+    margin: 20px 0px 70px 0px;
+}
+.video-section{
     width: 100%;
 }

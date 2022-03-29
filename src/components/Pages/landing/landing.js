@@ -1,15 +1,7 @@
-import React, { useRef, useState } from "react";
-import { Swiper, SwiperSlide } from 'swiper/react';
-import swiper1 from "../../../images/swiper1.png"
-import swiper2 from "../../../images/swiper2.png"
-import swiper3 from "../../../images/swiper3.png"
+import React from "react";
+import Swipers from "./swiper";
 
 import 'antd/dist/antd.css';
-// Import Swiper styles
-import "swiper/css";
-import "swiper/css/free-mode";
-import "swiper/css/navigation";
-import "swiper/css/thumbs";
 
 import "./landing.css";
 
@@ -50,17 +42,7 @@ export default function App() {
       </div>
     </div> 
     <div className="product-page">
-           <Swiper watchSlidesProgress={true} slidesPerView={3.5} className="mySwiper full-swiper">
-        <SwiperSlide>
-            <img src={swiper1} />
-        </SwiperSlide>
-        <SwiperSlide><img src={swiper3} /></SwiperSlide>
-        <SwiperSlide><img src={swiper2} /></SwiperSlide>
-        <SwiperSlide><img src={swiper3} /></SwiperSlide>
-        <SwiperSlide><img src={swiper1} /></SwiperSlide>
-        <SwiperSlide><img src={swiper2} /></SwiperSlide>
-        <SwiperSlide><img src={swiper3} /></SwiperSlide>
-      </Swiper>
+      <Swipers />
       <div className="swiper-mid px-5">
         <h1>FASHION</h1>
         <p>Grazie alla collaborazione con Visionari Milano proponiamo ai nostri utenti le migliori marche del mondo,
