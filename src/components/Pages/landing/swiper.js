@@ -1,9 +1,12 @@
 import React, { useRef, useState } from "react";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
-import swiper1 from "../../../images/swiper1.png"
-import swiper2 from "../../../images/swiper2.png"
-import swiper3 from "../../../images/swiper3.png"
+import swiper1 from "../../../images/_ (11).jpeg"
+import swiper2 from "../../../images/_ (4).jpeg"
+import swiper3 from "../../../images/Foto 09-02-22, 16 03 15.jpg"
+import swiper4 from "../../../images/Louis Vuitton  Men's Collection.png"
+import swiper5 from "../../../images/volt.jpeg"
+import swiper6 from "../../../images/nin.jpeg"
 
 // Import Swiper styles
 import "swiper/css";
@@ -42,6 +45,15 @@ const Swipers =()=> {
         <img src={swiper3} />
         </SwiperSlide>
         <SwiperSlide>
+        <img src={swiper4} />
+        </SwiperSlide>
+        <SwiperSlide>
+        <img src={swiper5} />
+        </SwiperSlide>
+        <SwiperSlide>
+        <img src={swiper6} />
+        </SwiperSlide>
+        <SwiperSlide>
         <img src={swiper1} />
         </SwiperSlide>
         <SwiperSlide>
@@ -51,16 +63,13 @@ const Swipers =()=> {
         <img src={swiper3} />
         </SwiperSlide>
         <SwiperSlide>
-        <img src={swiper1} />
+        <img src={swiper4} />
         </SwiperSlide>
         <SwiperSlide>
-        <img src={swiper2} />
+        <img src={swiper5} />
         </SwiperSlide>
         <SwiperSlide>
-        <img src={swiper3} />
-        </SwiperSlide>
-        <SwiperSlide>
-        <img src={swiper1} />
+        <img src={swiper6} />
         </SwiperSlide>
       </Swiper>
       <Swiper

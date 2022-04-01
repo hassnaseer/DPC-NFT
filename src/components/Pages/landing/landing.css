@@ -1,10 +1,10 @@
 .first-dive{
 background-image: url("../../../images/image_2022_03_03T13_43_06_996Z.png");
 width: 100%;
-height: 800px;
+background-position: center center;
+  height: 800px;
 background-repeat: no-repeat;
 background-size: cover;
-background-position: 100%;
 }
 .div-center, .div-center h2{
   color: white;
@@ -30,10 +30,10 @@ background-position: 100%;
 .div-Club{
   background-image: url("../../../images/image_2022_03_03T09_17_59_937Z.png");
 width: 100%;
-height: 800px;
+background-position: center center;
+  height: 800px;
 background-repeat: no-repeat;
 background-size: cover;
-background-position: 100%;
 }
 .club-mid{
   color: white;
@@ -59,10 +59,10 @@ background-position: 100%;
 .cars-div{
   background-image: url("../../../images/image_2022_03_03T09_16_50_621Z.png");
   width: 100%;
+  background-position: center center;
   height: 800px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 100%;
 }
 .cars-mid{
   color: white;
@@ -76,7 +76,7 @@ background-position: 100%;
   position: relative;
     z-index: 999;
     left: 50%;
-    transform: translate(-50%, -205%);
+    transform: translate(-50%, -180%);
 }
 .swiper-mid h1{
   color: white;

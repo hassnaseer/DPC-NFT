@@ -1,8 +1,8 @@
 import React from "react";
 import { Swiper, SwiperSlide } from 'swiper/react'; 
-import swiper1 from "../../../images/swiper1.png"
-import swiper2 from "../../../images/swiper2.png"
-import swiper3 from "../../../images/swiper3.png"
+import swiper1 from "../../../images/_ (11).jpeg"
+import swiper2 from "../../../images/_ (4).jpeg"
+import swiper3 from "../../../images/Foto 09-02-22, 16 03 15.jpg"
 import "./style.css";
 import "antd/dist/antd.css";
 import nft from "../../../images/nft.png";

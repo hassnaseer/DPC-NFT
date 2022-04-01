@@ -2,8 +2,9 @@ import React from "react"
 import { Card } from 'antd';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'antd/dist/antd.css';
-import image1 from "../../../images/image1.png"
-import image2 from "../../../images/image2.png"
+import image3 from "../../../images/Louis Vuitton  Men's Collection.png"
+import image2 from "../../../images/_ (4).jpeg"
+import image1 from "../../../images/_ (11).jpeg"
 
 //style
 import 'swiper/css';
