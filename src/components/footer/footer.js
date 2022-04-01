@@ -18,7 +18,7 @@ return(
                 <li className='text-white mx-2'>NFT</li>
                 <li className='text-white mx-2'>Cars</li>
                 <li className='text-white mx-2'>RoadMap</li>
-                <li className='text-white mx-2'>Entra nella lista</li>
+                <li className='text-white mx-2'>Entra&nbsp;nella&nbsp;lista</li>
               </ul>
               <span className='text-white'>
               Copyright© 2021. All Rights Reserved

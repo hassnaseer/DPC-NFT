@@ -10,6 +10,19 @@ background-color: black;
    color: white !important;
    margin-right: 10px;
 }
+.header-list-responsive{
+    position: absolute;
+    right: 20px;
+    top: 50px;
+    background-color: white;
+    padding: 25px;
+    border-radius: 15px;
+}
+.header-list-responsive a{
+    font-size: 22px;
+    color: black !important;
+    margin-right: 10px;
+ }
 .navbar-brand{
     font-size: 30px !important;
     font-weight: 900;
