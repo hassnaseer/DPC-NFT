@@ -4,7 +4,7 @@
 .telegram{
     background-image: url("../../../images/card1.png");
     width: 100%;
-    height: 298px;
+    /* height: 298px; */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 100%;
