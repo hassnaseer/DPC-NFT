@@ -3,7 +3,7 @@
 }
 .telegram{
     background-image: url("../../../images/card1.png");
-    width: 100%;
+    /* width: 100%; */
     /* height: 298px; */
     background-repeat: no-repeat;
     background-size: cover;
@@ -27,7 +27,7 @@
 }
 .creativo{
     background-image: url("../../../images/card2.png");
-    height: 298px;
+    /* height: 298px; */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 100%;
