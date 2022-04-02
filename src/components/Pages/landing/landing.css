@@ -86,6 +86,29 @@ background-size: cover;
   color: white;
   font-size: 24px;
 }
+@media screen and (max-width: 767px) {
+  .div-center p{
+    font-size: 24px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .div-center, .div-center h2{
+    color: white;
+    position: relative;
+      top: 60%;
+      font-size: 46px;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .cars-mid p{
+    text-align: start;
+    font-size: 17px;
+  }
+  .swiper-mid p{
+    color: white;
+    font-size: 17px;
+  }
+}
 .swiper-mid span{
   font-size: 20px;
   padding: 15px;
@@ -100,6 +123,7 @@ background-size: cover;
   text-align: start;
   font-size: 24px;
 }
+
 .cars-mid span{
   font-size: 24px;
   border: 1px solid white;

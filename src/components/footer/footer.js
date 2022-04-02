@@ -13,7 +13,7 @@ return(
             <InstagramFilled className="icon"/>
             <LinkedinFilled className="icon"/>
               </div>
-              <ul className='d-flex foot-items justify-content-center mb-5'>
+              <ul className='foot-items justify-content-center mb-5'>
                 <li className='text-white mx-2'>Fashion</li>
                 <li className='text-white mx-2'>NFT</li>
                 <li className='text-white mx-2'>Cars</li>

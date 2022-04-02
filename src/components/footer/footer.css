@@ -6,6 +6,14 @@
 .footer{
     border-top: 1px solid white;
 }
+.foot-items{
+    display: flex;
+}
+@media screen and (max-width: 767px) {
+    .foot-items{
+        display: unset;
+    }
+}
 .foot-items li{
     font-size: 24px;
     list-style: none !important;

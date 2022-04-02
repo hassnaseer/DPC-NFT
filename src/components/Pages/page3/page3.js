@@ -19,7 +19,7 @@ const LandingPage = ()=>{
     const { Meta } = Card;
   return (
       <div className="main-div row mx-0 py-5">
-          <div className="col-lg-4 side-heading p-5">
+          <div className="col-lg-4 side-heading">
               <h2>
               FEATURED IN THE V\CLUB PROJECT
               </h2>
